@@ -1,5 +1,6 @@
 # Decentralized Escrow Application
 
+This project establishes a secure and transparent method for transferring funds between parties. It employs an escrow service as a trusted third party, ensuring that the conditions of the transaction are met before releasing funds. 
 This is an Escrow Dapp built with [Hardhat](https://hardhat.org/).
 
 ## Project Layout
